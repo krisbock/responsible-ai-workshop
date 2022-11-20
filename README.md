@@ -11,7 +11,7 @@ There are a number of challenges and questions raised through the use of AI tech
 This project is an attempt to introduce and illustrate the use of: 
 * Resources designed to help you responsibly use AI at every stage of innovation - from concept to development, deployment, and beyond. 
 * Available toolkits & frameworks that help you integrate relevant Responsible AI features into your AI environment by themes and through the lifecycle stages of your AI system.
-
+* Activities to strengthen gradually the confidence that we can have in this technology and therefore facilitate its adoption in contexts where it would have a great responsibility.
 
 It is thus designed to help you or your "customers", whoever they are, to put Responsible AI into practice for your AI-powered solutions throughout their lifecycle.
 
@@ -24,7 +24,7 @@ This project is a work in progress (WIP).
 This project currently contains the following tutorials:
 * [Responsible AI Tooling Tutorials](https://github.com/microsoft/responsible-ai-workshop/tree/master/tooling-tutorials)
 * [End-to-End Responsible AI Lifecycle Walkthrough](https://github.com/microsoft/responsible-ai-workshop/tree/main/lifecycle-walkthrough)
-
+* [Towards a (more) trustworthy AI lifecycle](https://github.com/microsoft/responsible-ai-workshop/tree/main/trustworthy-ai-lifecycle)
 
 Each of the above tutorials consists of a series of modules for data engineers, data scientists, ML developers, ML engineers, and other AI practitioners, as well as potentially anyone interested considering the wide range of socio-technical aspects involved in the subject.
 
@@ -41,7 +41,11 @@ One should also note that this workshop might also be introduced by the followin
 
 From holistically transforming industries to addressing critical issues facing humanity, AI is already solving some of our most complex challenges and redefining how humans and technology interact. 
 
-You can visit our [Responsible AI resource center](https://www.microsoft.com/en-us/ai/responsible-ai) where you can find access to tools, guidelines, and additional resources that will help you create a (more) Responsible AI solution:
+You can read the publicly shared [Microsoft Responsible AI Standard](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-Responsible-AI-Standard-v2-General-Requirements-3.pdf), i.e., a framework to guide how Microsoft build AI systems. It is an important step in our journey to develop better, more trustworthy AI systems. We are releasing our latest Responsible AI Standard to share what we have learned, invite feedback from others, and contribute to the discussion about building better norms and practices around AI. 
+
+For those wanting to dig into our approach further, we have also made available some key resources that support the Responsible AI Standard: notably our [Impact Assessment template](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf) and [guide](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf). Impact Assessments have proven valuable at Microsoft to ensure teams explore the impact of their AI system – including its stakeholders, intended benefits, and potential harms – in depth at the earliest design stages. 
+
+In addition, you can also visit our [Responsible AI resource center](https://www.microsoft.com/en-us/ai/responsible-ai) where you can find access to tools, guidelines, and additional resources that will help you create a (more) Responsible AI solution:
 * [Put Responsible AI into Practice webinar](https://info.microsoft.com/ww-put-responsible-ai-into-practice-On-Demand-Registration.html) (On Demand).
 * [Ten Guidelines for Product Leaders to implement AI Responsibly](https://aka.ms/RAITenGuidelines).
 * [Establish a responsible AI strategy](https://aka.ms/AIBS).
